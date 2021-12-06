@@ -1,3 +1,8 @@
 # Влад Бондаренко
-![image](https://3dnews.ru/assets/external/illustrations/2020/03/17/1006161/i75_ArticleImage_23542.jpg)
+![image](https://github.com/MaDaRa181/WebSite/blob/main/photo_2021-12-06_17-18-51.jpg)
 ## front-end розробник
+
+### Привіт! Я фронт-енд розробник м. Херсон, Україна. Займаюся аматорською версткою веб-сайтів. Володію базовими знаннями про верстку (HTML/CSS/LESS), а також постійно користуюсь GitHub. Зараз навчаюсь в ХНТУ і вивчаю мову C, користування OS Lniux. В майбутньому мрію стати висококваліфікованим програмістом у світі і працювати в престижній IT-компанії.
+
+### Email:[Email](bondvlad464@gmail.com                              
+### GitHub:[github](https://github.com/MaDaRa181)
